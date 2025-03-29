@@ -1,5 +1,6 @@
 # Ex-01-Linux-Commands
-
+### NAME: KEERTHANA V
+### REG NO: 212223220045
 
 ## Aim:
 
